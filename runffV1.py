@@ -33,6 +33,7 @@ global URL_LIST_QUEUE
 URL_LIST_QUEUE = Queue()
 
 
+
 # 页面爬取类，定义了基本的页面内容爬取逻辑。
 class RunffSave(object):
 
